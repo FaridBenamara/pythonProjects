@@ -406,3 +406,6 @@ def bossBattle():
     return gameover
 
 mainMenu()
+'''
+@author : Farid BENAMARA 
+'''
